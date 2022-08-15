@@ -1,7 +1,7 @@
 {
-  "realm": "Rommel",
-  "auth-server-url": "https://sso-rhsso.apps.shared-na46.openshift.opentlc.com/auth/",
-  "ssl-required": "none",
+  "realm": "lab-leo",
+  "auth-server-url": "https://keycloak-rhsso.apps-crc.testing/auth/",
+  "ssl-required": "external",
   "resource": "js-console",
   "public-client": true,
   "confidential-port": 0
