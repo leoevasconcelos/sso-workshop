@@ -1,6 +1,6 @@
 {
   "realm": "lab-leo",
-  "auth-server-url": "https://keycloak-rhsso.apps-crc.testing/auth/",
+  "auth-server-url": "https://keycloak-rhsso.apps.leribeir.vmware.tamlab.rdu2.redhat.com/auth/",
   "ssl-required": "external",
   "resource": "js-console",
   "public-client": true,
